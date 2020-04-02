@@ -1,5 +1,7 @@
 # Asteroid_shower
-A basic game made using pygame module
+A basic game made using pygame module.
+different asteroids with different speeds. use arrow keys to save your ship from getting destroyed!
+Press esc key to quit or ctrl+c in terminal.
 # how to play
 type 'python Asteroid_shower.py' in terminal
 
